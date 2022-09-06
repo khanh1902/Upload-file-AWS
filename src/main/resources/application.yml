@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://upload-file-v1.s3.ap-southeast-1.amazonaws.com
+  accessKey: AKIA4YKHWLEWQU2DUZ5H
+  secretKey: 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
+  bucketName: upload-file-v1
